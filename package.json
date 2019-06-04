@@ -88,7 +88,7 @@
     "rimraf": "2.6.x",
     "uglify-js": "3.5.x",
     "tmp": "0.x",
-    "webpack": "4.x",
+    "webpack": "^4.33.0",
     "webpack-cli": "3.x",
     "webpack-closure-compiler": "2.x",
     "babel-loader": "8.0.x",
