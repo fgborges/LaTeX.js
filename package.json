@@ -89,7 +89,7 @@
     "uglify-js": "3.5.x",
     "tmp": "0.x",
     "webpack": "4.x",
-    "webpack-cli": "3.x",
+    "webpack-cli": "^3.3.3",
     "webpack-closure-compiler": "2.x",
     "babel-loader": "8.0.x",
     "source-map-loader": "0.2.x",
