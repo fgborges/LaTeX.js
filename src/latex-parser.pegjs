@@ -230,7 +230,7 @@ unknown_macro =
 
 
 identifier "identifier" =
-    $char+
+    $(char / [*])+
 
 // key can contain pretty much anything but = and ,
 key =
